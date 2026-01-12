@@ -239,9 +239,9 @@ jq empty karabiner.json
 
 ## Global Parameters
 
-- **Simultaneous threshold:** 25ms
-- **To-if-alone timeout:** 200ms
-- **Held-down threshold:** 300ms
+- **Delayed action:** 150ms
+- **To-if-alone timeout:** 220ms
+- **Held-down threshold:** 190ms
 
 ---
 
